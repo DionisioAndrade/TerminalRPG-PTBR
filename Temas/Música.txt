@@ -1,0 +1,52 @@
+História: A Ascensão do Cantor
+Introdução:
+Você é Mia, uma talentosa cantora que sonha em se tornar uma estrela da música. Sua jornada será repleta de escolhas que afetarão sua carreira, suas relações e sua paixão pela música.
+
+Atributos Iniciais de Mia:
+Popularidade: 0
+Habilidade Vocal: 10
+Energia: 100
+Itens: Nenhum no início
+Ato 1: O Primeiro Show
+Você recebe uma oportunidade de se apresentar em um pequeno bar:
+
+Opção 1: Cantar uma canção original que você escreveu.
+Opção 2: Fazer um cover de uma música famosa.
+Condicional:
+
+Canção Original: Se você escolher essa opção, pode ganhar Popularidade (10), mas pode ser arriscado se o público não gostar.
+Cover Famoso: Se você optar pelo cover, a chance de agradar o público é maior, ganhando Popularidade (5), mas você não se destaca tanto.
+Ato 2: O Encontro com o Mentor
+Após o show, um famoso produtor musical se aproxima de você e oferece ajuda:
+
+Opção 1: Aceitar o convite para gravar uma demo.
+Opção 2: Recusar e seguir seu próprio caminho.
+Condicional:
+
+Aceitar: Se você aceitar, aumenta sua Habilidade Vocal em 5 e ganha Popularidade (20), mas sua Energia diminui em 20.
+Recusar: Se você recusar, mantém sua Energia, mas não ganha experiência ou Popularidade.
+Ato 3: A Grande Oportunidade
+Você é convidada para participar de um concurso de talentos:
+
+Opção 1: Cantar uma música pop animada.
+Opção 2: Escolher uma balada emocional.
+Condicional:
+
+Música Pop: Se você cantar uma música pop, pode ganhar mais Popularidade (30) se a apresentação for bem, mas é um estilo mais comum.
+Balada Emocional: Se você escolher a balada, pode tocar o coração da audiência e ganhar Popularidade (40), mas pode ser mais arriscado.
+Ato 4: O Caminho da Fama
+Após o concurso, você deve decidir como avançar em sua carreira:
+
+Opção 1: Lançar um álbum solo.
+Opção 2: Formar uma banda com outros músicos.
+Finais:
+
+Álbum Solo: Se você lançar um álbum solo e ele fizer sucesso, sua Popularidade explode, e você se torna uma artista famosa.
+Formar uma Banda: Se você formar uma banda, pode ganhar Popularidade em conjunto, mas terá que lidar com conflitos e dinâmicas de grupo.
+Descrição dos Sistemas:
+Sistema de Popularidade e Habilidades:
+Sua Popularidade e Habilidade Vocal são impactadas por suas escolhas. O objetivo é maximizar sua popularidade enquanto aprimora suas habilidades.
+Sistema de Energia:
+Sua Energia é um recurso vital. Você deve gerenciá-la com cuidado, pois muitas decisões exigem um custo de energia.
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam a trajetória de Mia na indústria musical, criando diferentes caminhos e resultados.

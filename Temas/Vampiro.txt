@@ -1,0 +1,53 @@
+História: A Sombra da Noite
+Introdução:
+Você é Lucian, um vampiro recém-transformado que luta para entender suas novas habilidades e sua sede de sangue. Em um mundo repleto de caçadores de vampiros e outras criaturas das trevas, suas decisões determinarão seu destino.
+
+Atributos Iniciais de Lucian:
+Sede de Sangue: 50
+Força: 10
+Habilidade de Disfarce: 5
+Itens: Nenhum no início
+Ato 1: A Descoberta das Habilidades
+Após sua transformação, você precisa decidir como usar suas habilidades recém-descobertas:
+
+Opção 1: Usar sua força para intimidar um humano e saciar sua sede.
+Opção 2: Tentar seduzir uma vítima para obter o sangue de forma discreta.
+Condicional:
+
+Intimidar: Se você intimidar, ganha 20 de Sede de Sangue, mas pode atrair a atenção de caçadores, reduzindo sua Habilidade de Disfarce em 2.
+Seduzir: Se você optar por seduzir, ganha 30 de Sede de Sangue e aumenta sua Habilidade de Disfarce em 5, mas pode ser mais arriscado se a vítima perceber suas intenções.
+Ato 2: O Encontro com a Clã
+Você encontra um grupo de vampiros que fazem parte de um clã poderoso:
+
+Opção 1: Pedir para se juntar ao clã.
+Opção 2: Decidir agir sozinho.
+Condicional:
+
+Juntar-se ao Clã: Se você se juntar, ganha proteção e poder, aumentando sua Força em 5, mas deve seguir suas regras.
+Agir Sozinho: Se optar por agir sozinho, ganha liberdade, mas corre o risco de ser caçado mais facilmente, reduzindo sua Força em 2.
+Ato 3: O Dilema Moral
+Enquanto busca por sangue, você se depara com uma escolha difícil:
+
+Opção 1: Alimentar-se de um criminoso.
+Opção 2: Alimentar-se de um inocente.
+Condicional:
+
+Criminoso: Se você escolher o criminoso, sua Sede de Sangue aumenta em 40, mas sua Habilidade de Disfarce não muda.
+Inocente: Se optar por um inocente, você ganha 30 de Sede de Sangue, mas isso pode pesar em sua consciência, reduzindo sua moral.
+Ato 4: O Confronto Final
+Você é desafiado por um caçador de vampiros que deseja acabar com sua existência:
+
+Opção 1: Enfrentar o caçador em combate.
+Opção 2: Tentar escapar e usar sua Habilidade de Disfarce.
+Finais:
+
+Enfrentar o Caçador: Se você vencer, ganha respeito entre os vampiros e aumenta sua Força em 10, mas pode ficar gravemente ferido, reduzindo sua Sede de Sangue.
+Escapar: Se conseguir escapar, mantém sua vida, mas sua Sede de Sangue pode ficar em 0, forçando você a procurar mais alimento.
+Descrição dos Sistemas:
+Sistema de Sede de Sangue e Habilidades:
+Sua Sede de Sangue e habilidades são impactadas por suas escolhas. O objetivo é equilibrar a satisfação de sua sede enquanto aprimora suas habilidades e evita a detecção.
+Sistema de Itens:
+Amuleto de Sombra: Aumenta a Habilidade de Disfarce em 10 (pode ser encontrado em uma antiga catedral).
+Poção de Força: Aumenta a Força em 5 (pode ser adquirida de um alquimista).
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam a trajetória de Lucian como vampiro, criando diferentes caminhos e resultados.

@@ -1,0 +1,70 @@
+História: A Odisseia do Espaço Profundo
+Introdução:
+Você é Captain Orion, um piloto experiente da nave espacial Nova Esperança. A galáxia está em perigo devido a uma invasão de alienígenas hostis que ameaçam destruir colônias humanas. Sua missão é explorar sistemas estelares, reunir recursos e enfrentar a ameaça alienígena. Suas escolhas determinarão o sucesso da missão.
+
+Atributos Iniciais de Captain Orion:
+Vida: 100
+Ataque Base (sem armas): 10
+Itens: Nenhum no início
+Ato 1: Escolha Inicial - Preparando-se para a Exploração
+Você tem duas opções para começar sua missão:
+
+Opção 1: Explorar o Planeta Verdante em busca de recursos.
+Opção 2: Visitar a Estação Espacial para recrutar aliados.
+Condicional:
+
+Planeta Verdante: Se escolher essa opção, você encontra um Lasergun (dano: 15), aumentando seu ataque total para 25.
+Estação Espacial: Se escolher essa opção, você consegue recrutar um Mecânico, que pode ajudar a reparar sua nave e fornece um bônus de +5 em resistência.
+Ato 2: O Encontro com o Aliado Misterioso
+Durante sua jornada, você encontra uma figura misteriosa que oferece uma Bateria de Energia e um Escudo de Defesa.
+
+Opção 1: Aceitar a ajuda.
+Opção 2: Recusar e seguir sozinho.
+Condicional:
+
+Aceitar ajuda: O estranho lhe dá uma Bateria de Energia que aumenta sua vida em 20 pontos (máx. 120) e um Escudo de Defesa, que reduz o dano recebido em 10 pontos por ataque.
+Recusar ajuda: Se você recusar, encontrará um Kit de Primeiros Socorros durante a exploração, que restaura 30 pontos de vida.
+Ato 3: O Enigma no Campo de Asteroides
+Chegando ao Campo de Asteroides, uma voz misteriosa o desafia com a seguinte pergunta:
+
+"O que é mais importante na batalha: a força ou a estratégia?"
+
+Opção 1: Responder "A força".
+Opção 2: Responder "A estratégia".
+Condicional:
+
+A força: Você recebe um bônus de +10 no ataque durante a batalha final contra os alienígenas.
+A estratégia: Você recebe um bônus de esquiva, podendo evitar um ataque alienígena durante a luta.
+Ato 4: A Batalha Final contra a Frota Alienígena
+Você chega ao sistema estelar onde a frota alienígena está se reunindo. A frota tem 200 de vida total, e cada ataque deles causa 20 de dano. Dependendo das suas escolhas anteriores, sua estratégia será diferente:
+
+Vida da Frota Alienígena: 200
+Dano da Frota Alienígena: 20 por turno
+Condições de Batalha:
+
+Se você tiver a Lasergun, cada ataque seu causará 25 de dano.
+Se você tiver recrutado o Mecânico, ele pode reparar sua nave durante a batalha, aumentando sua vida em 20 pontos.
+Se você aceitou a ajuda do estranho, o Escudo de Defesa reduz o dano dos alienígenas em 10 (cada ataque agora causa 10 de dano).
+Se você respondeu corretamente ao enigma, poderá desviar de um ataque, evitando 20 de dano uma vez na batalha.
+Exemplo de Luta:
+Captain Orion ataca com a Lasergun, causando 25 de dano à frota alienígena. A frota tem agora 175 de vida.
+Os alienígenas atacam, causando 20 de dano. Captain Orion agora tem 80 de vida.
+Captain Orion ataca novamente, causando 25 de dano, deixando a frota com 150 de vida.
+Os alienígenas atacam novamente, causando 10 de dano (devido ao Escudo de Defesa). Captain Orion agora tem 70 de vida.
+Captain Orion desvia de um ataque (se a estratégia foi escolhida), evitando 20 de dano.
+Captain Orion continua atacando até que a frota seja derrotada.
+Finais:
+Final Heroico: Se você derrotar a frota alienígena, salva as colônias e se torna um herói lendário na galáxia.
+Final de Sacrifício: Se sua vida chegar a 0, você se sacrifica para garantir a derrota dos alienígenas, mas as colônias são salvas, e você será lembrado como um mártir.
+Final de Derrota: Se a frota não for derrotada e sua vida chegar a 0 sem derrotar os alienígenas, a galáxia será dominada, e a humanidade cairá em desespero.
+Descrição dos Sistemas:
+Sistema de Vida e Dano:
+O jogador e a frota alienígena têm vida. A cada turno, o jogador pode atacar ou usar itens, e os alienígenas atacam o jogador. O objetivo é reduzir a vida da frota a 0 antes que a sua vida chegue a 0.
+A vida inicial de Captain Orion é 100. Dependendo das escolhas, o jogador pode ganhar itens que curam vida ou protegem contra ataques.
+Sistema de Itens:
+Lasergun: +15 de ataque.
+Escudo de Defesa: Reduz 10 de dano por ataque.
+Bateria de Energia: Aumenta a vida em 20 pontos (máx. 120).
+Kit de Primeiros Socorros: Recupera 30 de vida.
+Sistema de Decisões:
+As escolhas feitas durante a história afetam o desfecho da batalha final, alterando o dano, defesa e estratégias disponíveis.

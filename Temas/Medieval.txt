@@ -1,0 +1,70 @@
+História: A Jornada do Herói - Sistema de Dano e Itens
+Você é Aldar, um jovem aventureiro com a missão de salvar sua vila do terrível dragão vermelho que ameaça destruir tudo. Sua jornada será cheia de desafios, e suas escolhas determinarão seu sucesso. Você terá um sistema de vida e dano, e poderá coletar itens que lhe ajudarão na batalha.
+
+Atributos Iniciais de Aldar:
+Vida: 100
+Ataque Base (sem armas ou magia): 10
+Itens: Nenhum no início
+Ato 1: Escolha Inicial - Preparando-se para a Jornada
+Você tem duas opções para começar sua jornada:
+
+Opção 1: Procurar a Espada de Cristal na Floresta Mística.
+Opção 2: Aprender Magia de Fogo com o sábio Elrond na Torre do Mago.
+
+Condicional:
+Espada de Cristal: Se escolher essa opção, você ganha a espada, que dá um bônus de +30 de ataque.
+Magia de Fogo: Se escolher essa opção, você ganha a habilidade de lançar uma bola de fogo, que causa 50 de dano, mas pode ser usada apenas uma vez por batalha.
+Ato 2: O Encontro com o Aliado Misterioso
+Durante sua jornada, você encontra uma figura misteriosa que oferece ajuda. Ele tem uma poção mágica e uma armadura de proteção:
+
+Opção 1: Aceitar a ajuda.
+Opção 2: Recusar e seguir sozinho.
+
+Condicional:
+Aceitar ajuda: O estranho se junta a você. Ele possui uma poção que pode restaurar 50 de vida e dá a você uma Armadura de Couro, que reduz o dano recebido em 10 pontos por ataque.
+Recusar ajuda: Se você recusar, encontrará uma Poção de Cura durante a caminhada, que restaura 30 de vida.
+Ato 3: O Enigma no Vale das Sombras
+Chegando ao Vale das Sombras, uma voz misteriosa o desafia com a seguinte pergunta:
+
+"O que é mais poderoso, a espada ou a mente?"
+
+Opção 1: Responder "A espada".
+Opção 2: Responder "A mente".
+
+Condicional:
+A espada: Você recebe um bônus de +20 no ataque na batalha final contra o dragão.
+A mente: Você recebe um bônus de esquiva, podendo evitar um ataque do dragão durante a luta.
+Ato 4: A Batalha Final contra o Dragão
+Você chega à Montanha da Chama e o dragão vermelho aparece. Ele tem 200 de vida e cada ataque seu causa 30 de dano. Dependendo das escolhas anteriores, sua estratégia será diferente:
+
+Vida do Dragão: 200
+Ataque do Dragão: 30 por turno
+Condições de Batalha:
+Se você tiver a Espada de Cristal, cada ataque seu causará 40 de dano.
+Se você tiver aprendido Magia de Fogo, você pode usar a magia uma vez e causar 50 de dano imediatamente.
+Se você tiver aceitado a ajuda do estranho, ele lhe dará a Poção para restaurar 50 de vida e a Armadura, que reduz o dano do dragão em 10 por ataque (cada ataque do dragão agora causa 20 de dano).
+Se você tiver resolvido o enigma corretamente, poderá desviar de um ataque, evitando 30 de dano uma vez na batalha.
+Exemplo de Luta:
+Aldar ataca com a Espada de Cristal, causando 40 de dano ao dragão. O dragão tem agora 160 de vida.
+O dragão ataca, causando 30 de dano, mas se você tiver a Armadura, receberá apenas 20 de dano.
+Você pode usar a Magia de Fogo para causar 50 de dano de uma vez, deixando o dragão com 110 de vida.
+O dragão ataca novamente, mas se você respondeu corretamente o enigma, pode esquivar de um ataque e evitar o dano.
+Aldar continua atacando até que o dragão seja derrotado.
+Finais:
+Final Heroico: Se você derrotar o dragão com sucesso, salva sua vila e se torna o grande herói de Eldoria.
+Final de Sacrifício: Se a sua vida chegar a 0, você morre derrotando o dragão, mas sua vila será salva, e você será lembrado como um mártir.
+Final de Derrota: Se o dragão não for derrotado e sua vida chegar a 0 sem matar o dragão, sua vila será destruída e o dragão continuará sua fúria.
+Descrição dos Sistemas:
+Sistema de Vida e Dano:
+
+O jogador e o dragão têm vida. A cada turno, o jogador pode atacar ou usar itens, e o dragão ataca o jogador. O objetivo é reduzir a vida do dragão a 0 antes que a sua vida chegue a 0.
+A vida inicial de Aldar é 100. Dependendo das escolhas, o jogador pode ganhar itens que curam vida ou protegem contra ataques.
+Sistema de Itens:
+
+Espada de Cristal: +30 de ataque.
+Magia de Fogo: 50 de dano, uma vez por batalha.
+Armadura de Couro: Reduz 10 de dano por ataque.
+Poção de Cura: Recupera 50 ou 30 de vida (dependendo da escolha).
+Sistema de Decisões:
+
+As escolhas feitas durante a história afetam o desfecho da batalha final, alterando o dano, defesa, e estratégias disponíveis.

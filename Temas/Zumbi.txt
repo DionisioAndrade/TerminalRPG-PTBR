@@ -1,0 +1,70 @@
+História: Sobrevivência na Zona Morta
+Introdução:
+Você é Alex, um sobrevivente em um mundo devastado por uma epidemia zumbi. Sua missão é encontrar um refúgio seguro e reunir os sobreviventes para lutar contra a ameaça crescente. Sua jornada será cheia de desafios, e suas escolhas determinarão seu sucesso. Você terá um sistema de vida e dano, e poderá coletar itens que lhe ajudarão a sobreviver.
+
+Atributos Iniciais de Alex:
+Vida: 100
+Ataque Base (sem armas): 10
+Itens: Nenhum no início
+Ato 1: Escolha Inicial - Preparando-se para a Sobrevivência
+Você tem duas opções para começar sua jornada:
+
+Opção 1: Explorar o Armazém Abandonado em busca de suprimentos.
+Opção 2: Ir ao Parque da Cidade para tentar encontrar outros sobreviventes.
+Condicional:
+
+Armazém Abandonado: Se escolher essa opção, você encontra uma Faca (dano: 10), que aumenta seu ataque total para 20.
+Parque da Cidade: Se escolher essa opção, você encontra um grupo de sobreviventes e ganha uma Pistola (dano: 20), mas eles precisam de ajuda, e você ganha a habilidade de reunir mais aliados.
+Ato 2: O Encontro com o Aliado Misterioso
+Durante sua jornada, você encontra uma figura misteriosa que oferece ajuda. Ele tem uma Poção de Cura e uma Armadura de Couro.
+
+Opção 1: Aceitar a ajuda.
+Opção 2: Recusar e seguir sozinho.
+Condicional:
+
+Aceitar ajuda: O estranho se junta a você. Ele lhe dá uma Poção de Cura (recupera 50 de vida) e a Armadura de Couro, que reduz o dano recebido em 5 pontos por ataque.
+Recusar ajuda: Se você recusar, encontrará uma Poção de Energia durante a caminhada, que restaura 30 de energia.
+Ato 3: O Enigma no Vale das Sombras
+Chegando ao Vale das Sombras, uma voz misteriosa o desafia com a seguinte pergunta:
+
+"O que é mais importante para sobreviver: a força ou a astúcia?"
+
+Opção 1: Responder "A força".
+Opção 2: Responder "A astúcia".
+Condicional:
+
+A força: Você recebe um bônus de +10 no ataque durante a batalha final contra a horda de zumbis.
+A astúcia: Você recebe um bônus de esquiva, podendo evitar um ataque de um zumbi durante a luta.
+Ato 4: A Batalha Final contra a Horda de Zumbis
+Você chega ao Refúgio Seguro, mas uma horda de zumbis aparece. Eles têm 150 de vida total, e cada ataque deles causa 20 de dano. Dependendo das suas escolhas anteriores, sua estratégia será diferente:
+
+Vida da Horda de Zumbis: 150
+Dano dos Zumbis: 20 por turno
+Condições de Batalha:
+
+Se você tiver a Faca, cada ataque seu causará 20 de dano.
+Se você tiver a Pistola, cada ataque causará 30 de dano.
+Se você tiver aceitado a ajuda do estranho, ele lhe dará a Poção de Cura, que pode restaurar 50 de vida, e a Armadura, que reduz o dano dos zumbis em 5 (cada ataque agora causa 15 de dano).
+Se você respondeu corretamente ao enigma, poderá desviar de um ataque, evitando 20 de dano uma vez na batalha.
+Exemplo de Luta:
+Alex ataca com a Faca, causando 20 de dano à horda de zumbis. A horda tem agora 130 de vida.
+Os zumbis atacam, causando 20 de dano. Alex agora tem 80 de vida.
+Alex usa a Pistola (se a tiver), causando 30 de dano, deixando a horda com 100 de vida.
+Os zumbis atacam novamente, causando 20 de dano. Alex agora tem 60 de vida.
+Alex desvia de um ataque (se a astúcia foi escolhida), evitando 20 de dano.
+Alex continua atacando até que a horda seja derrotada.
+Finais:
+Final Heroico: Se você derrotar a horda com sucesso, salva o refúgio e se torna um líder entre os sobreviventes.
+Final de Sacrifício: Se sua vida chegar a 0, você se sacrifica para derrotar os zumbis, mas os sobreviventes são salvos e te lembrarão como um herói.
+Final de Derrota: Se a horda não for derrotada e sua vida chegar a 0 sem matar os zumbis, o refúgio será invadido e a comunidade será destruída.
+Descrição dos Sistemas:
+Sistema de Vida e Dano:
+O jogador e os zumbis têm vida. A cada turno, o jogador pode atacar ou usar itens, e os zumbis atacam o jogador. O objetivo é reduzir a vida dos zumbis a 0 antes que a sua vida chegue a 0.
+A vida inicial de Alex é 100. Dependendo das escolhas, o jogador pode ganhar itens que curam vida ou protegem contra ataques.
+Sistema de Itens:
+Faca: +10 de ataque.
+Pistola: +20 de ataque.
+Armadura de Couro: Reduz 5 de dano por ataque.
+Poção de Cura: Recupera 50 ou 30 de vida (dependendo da escolha).
+Sistema de Decisões:
+As escolhas feitas durante a história afetam o desfecho da batalha final, alterando o dano, defesa e estratégias disponíveis.

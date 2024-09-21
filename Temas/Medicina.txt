@@ -1,0 +1,53 @@
+História: O Desafio do Médico
+Introdução:
+Você é Dr. Ana, uma jovem médica residente em um hospital movimentado. Seu objetivo é salvar vidas e se tornar uma especialista respeitada, mas suas decisões podem afetar não apenas sua carreira, mas também a vida de seus pacientes.
+
+Atributos Iniciais de Dr. Ana:
+Energia: 100
+Habilidade Médica: 10
+Experiência: 0
+Itens: Nenhum no início
+Ato 1: O Primeiro Turno
+Você recebe um chamado para atender dois pacientes com condições diferentes:
+
+Opção 1: Atender o paciente com uma lesão grave em um acidente de carro.
+Opção 2: Atender o paciente com sintomas de uma doença infecciosa.
+Condicional:
+
+Lesão Grave: Se escolher essa opção, você ganha experiência (10) por um tratamento bem-sucedido, mas sua energia diminui em 20.
+Doença Infecciosa: Se escolher essa opção, você ganha experiência (5) por um diagnóstico correto, mas deve lidar com riscos de contágio, reduzindo sua energia em 10.
+Ato 2: O Desafio Ético
+Após o primeiro atendimento, você encontra um dilema ético envolvendo a prioridade do tratamento:
+
+Opção 1: Priorizar o tratamento do paciente em estado crítico.
+Opção 2: Priorizar o paciente com maior chance de sobrevivência.
+Condicional:
+
+Paciente Crítico: Se você priorizar o paciente crítico, sua Habilidade Médica aumenta em 5, mas sua energia diminui em 15.
+Paciente com Chance: Se você escolher o paciente com maior chance de sobrevivência, sua Felicidade aumenta em 10, mas sua experiência não aumenta.
+Ato 3: O Desfecho da Emergência
+A equipe médica se reúne para decidir o tratamento mais eficaz para o paciente em estado crítico. Você pode influenciar a decisão:
+
+Opção 1: Sugerir uma cirurgia arriscada, mas potencialmente salvadora.
+Opção 2: Recomendar um tratamento conservador.
+Condicional:
+
+Cirurgia Arriscada: Se você sugerir a cirurgia e ela for bem-sucedida, sua Habilidade Médica aumenta em 10 e você ganha 20 de experiência.
+Tratamento Conservador: Se você recomendar o tratamento conservador, sua energia se recupera em 10, mas a Habilidade Médica não muda.
+Ato 4: O Futuro
+Após os desafios do dia, você deve decidir como continuar sua carreira:
+
+Opção 1: Especializar-se em cirurgia.
+Opção 2: Focar em medicina preventiva.
+Finais:
+
+Especialização em Cirurgia: Se você seguir esse caminho, se torna uma cirurgiã renomada, respeitada no campo da medicina.
+Foco em Medicina Preventiva: Se escolher essa opção, você se torna uma defensora da saúde pública e ajuda a prevenir doenças, fazendo uma grande diferença na comunidade.
+Descrição dos Sistemas:
+Sistema de Energia e Habilidades:
+Sua Energia e Habilidade Médica são impactadas por suas escolhas. O objetivo é manter a energia alta enquanto melhora suas habilidades médicas.
+Sistema de Itens:
+Kit de Primeiros Socorros: Recupera 20 de Energia.
+Livro de Medicina: Aumenta a Habilidade Médica em 5 (pode ser encontrado na biblioteca do hospital).
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam o futuro de Dr. Ana e o impacto que ela tem na vida de seus pacientes.

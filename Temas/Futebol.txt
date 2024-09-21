@@ -1,0 +1,62 @@
+História: A Grande Final
+Introdução:
+Você é Leo, um jovem jogador de futebol que sonha em levar seu time, o Clube Estrela, à vitória na final do campeonato nacional. Sua jornada será cheia de desafios e decisões que impactarão seu desempenho e suas relações com os companheiros de equipe.
+
+Atributos Iniciais de Leo:
+Energia: 100
+Habilidade de Ataque: 10
+Habilidade de Defesa: 8
+Itens: Nenhum no início
+Ato 1: Escolha Inicial - O Treinamento
+Você tem duas opções para começar a se preparar para a final:
+
+Opção 1: Treinar com o técnico, focando na habilidade de ataque.
+Opção 2: Praticar a defesa com o capitão do time.
+Condicional:
+
+Treinamento com o técnico: Se escolher essa opção, sua Habilidade de Ataque aumenta para 15.
+Prática de defesa: Se escolher essa opção, sua Habilidade de Defesa aumenta para 12.
+Ato 2: O Encontro com o Rival
+Durante o caminho para a final, você encontra seu rival de longa data, Alex, que tenta intimidá-lo.
+
+Opção 1: Ignorar Alex e seguir em frente.
+Opção 2: Confrontar Alex e desafiá-lo para um duelo amistoso.
+Condicional:
+
+Ignorar Alex: Você mantém sua energia, mas não ganha experiência com esse encontro.
+Confrontar Alex: Se você desafiar Alex, ganha um bônus de confiança, aumentando sua Habilidade de Ataque em 5, mas sua Energia diminui em 10.
+Ato 3: A Preparação para o Jogo
+Na véspera da final, você e seus companheiros têm a chance de relaxar ou se concentrar.
+
+Opção 1: Participar de uma festa com a equipe para desestressar.
+Opção 2: Focar em uma sessão de vídeo, analisando os pontos fracos do time adversário.
+Condicional:
+
+Festa: Se você participar, sua Felicidade aumenta em 20, mas sua Energia diminui em 15.
+Análise de vídeo: Se você optar por isso, ganha uma compreensão melhor do time adversário, aumentando sua Habilidade de Defesa em 5.
+Ato 4: A Grande Final
+Chega o dia da final e o Clube Estrela enfrenta o Time Gladiador. O jogo começa, e você deve tomar decisões rápidas durante a partida.
+
+Opção 1: Atacar e tentar marcar um gol.
+Opção 2: Defender e proteger a área do goleiro.
+Condições de Jogo:
+
+Atacar: Se sua Habilidade de Ataque é alta, você pode marcar um gol, reduzindo a moral do time adversário. Se sua Energia estiver baixa, há uma chance de falhar.
+Defender: Se sua Habilidade de Defesa é alta, você pode evitar um gol do time adversário. Se sua Energia estiver alta, você pode conseguir um contra-ataque.
+Exemplo de Jogo:
+Leo ataca com a Habilidade de Ataque: Se você tem Habilidade de Ataque 15 e Energia 80, pode marcar um gol.
+O time adversário ataca: Dependendo da sua Habilidade de Defesa, você pode defender e evitar um gol.
+O jogo continua: A cada decisão, o resultado do jogo muda, com a moral de cada time sendo impactada pelas suas escolhas.
+Finais:
+Final Triunfante: Se você marcar o gol decisivo e a equipe vencer, você se torna um herói local e ganha um contrato com um time profissional.
+Final de Sacrifício: Se você se machucar, mas ainda assim consegue ajudar seu time a vencer, você é lembrado como um verdadeiro guerreiro.
+Final de Derrota: Se o time perder, você aprende valiosas lições sobre trabalho em equipe e determinação, preparando-se para a próxima temporada.
+Descrição dos Sistemas:
+Sistema de Energia e Habilidades:
+Sua Energia, Habilidade de Ataque e Habilidade de Defesa são afetadas por suas escolhas. O objetivo é equilibrar energia e habilidade para maximizar seu desempenho no jogo.
+Sistema de Itens:
+Bola Mágica: Aumenta a Habilidade de Ataque em 5 (pode ser encontrada durante os treinos).
+Garrafa de Água: Recupera 20 de Energia.
+Camiseta da Sorte: Aumenta a Felicidade e a moral da equipe durante a partida.
+Sistema de Decisões:
+As escolhas feitas durante a história afetam o desfecho do jogo, criando diferentes caminhos e resultados possíveis.

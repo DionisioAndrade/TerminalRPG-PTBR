@@ -1,0 +1,62 @@
+História: Corações Entrelaçados
+Introdução:
+Você é Clara, uma jovem artista que sonha em encontrar o amor verdadeiro enquanto vive em uma pequena cidade costeira. Sua jornada emocional será cheia de decisões que moldarão seu destino e seus relacionamentos. Você terá um sistema de emoções e itens que poderão ajudá-la em sua busca.
+
+Atributos Iniciais de Clara:
+Felicidade: 100
+Atração: 10
+Itens: Nenhum no início
+Ato 1: Escolha Inicial - O Encontro Inesperado
+Você tem duas opções para começar sua jornada amorosa:
+
+Opção 1: Participar do Festival de Primavera na praça da cidade.
+Opção 2: Visitar a Galeria de Arte local em busca de inspiração.
+Condicional:
+
+Festival de Primavera: Se escolher essa opção, você conhece Lucas, um músico encantador, que aumenta sua Atração para 20.
+Galeria de Arte: Se escolher essa opção, você conhece Sofia, uma artista intrigante, que aumenta sua Atração para 15.
+Ato 2: O Convite para o Jantar
+Após o primeiro encontro, você recebe um convite para jantar de um dos seus novos conhecidos:
+
+Opção 1: Aceitar o convite de Lucas.
+Opção 2: Aceitar o convite de Sofia.
+Condicional:
+
+Jantar com Lucas: Se você aceitar, ele traz flores e sua Felicidade aumenta em 20.
+Jantar com Sofia: Se você aceitar, ela traz uma pintura dela e sua Felicidade aumenta em 15, mas você também se sente um pouco insegura sobre sua arte.
+Ato 3: O Dilema Emocional
+Durante um passeio pela praia, você se depara com uma situação complicada:
+
+Lucas confessa que tem sentimentos profundos por você, mas Sofia também admite que está apaixonada.
+
+Opção 1: Responder a Lucas e expressar seus sentimentos.
+Opção 2: Falar com Sofia e explicar como você se sente.
+Condicional:
+
+Apoiar Lucas: Sua Atração por ele aumenta para 30, mas sua Felicidade diminui em 10 por causa da pressão emocional.
+Apoiar Sofia: Sua Atração por ela aumenta para 25, e você se sente mais feliz por ser honesta, aumentando sua Felicidade em 5.
+Ato 4: A Decisão Final
+Com as emoções à flor da pele, você deve tomar uma decisão sobre quem deseja ficar:
+
+Opção 1: Escolher Lucas e começar um relacionamento com ele.
+Opção 2: Escolher Sofia e explorar seu amor pela arte juntas.
+Condições Finais:
+
+Escolher Lucas: Se você escolher Lucas, sua Felicidade aumenta em 30 e você se torna uma dupla inseparável, celebrando o amor durante o Festival de Verão.
+Escolher Sofia: Se você escolher Sofia, sua Felicidade aumenta em 25 e vocês se tornam parceiras de arte e vida, realizando uma exposição juntas.
+Exemplo de Desfecho:
+Se você escolheu Lucas: Você e ele têm momentos românticos, toques musicais e dançam sob a luz da lua. O amor floresce e vocês constroem um futuro juntos.
+Se você escolheu Sofia: Juntas, vocês exploram novas técnicas artísticas e criam obras-primas que refletem seu amor. A exposição é um sucesso, e vocês celebram a vida em conjunto.
+Finais:
+Final Feliz com Lucas: Se você e Lucas construírem um relacionamento forte, vocês se tornam um símbolo de amor na cidade.
+Final Criativo com Sofia: Se você e Sofia prosperarem em sua arte, vocês ganham reconhecimento e se tornam referências no mundo artístico.
+Descrição dos Sistemas:
+Sistema de Felicidade e Atração:
+Sua Felicidade e Atração são afetadas por suas escolhas. O objetivo é manter sua Felicidade alta enquanto constrói um relacionamento significativo.
+A felicidade inicial de Clara é 100. As escolhas influenciam sua Felicidade e Atração, que podem levar a diferentes finais.
+Sistema de Itens:
+Flores de Lucas: Aumentam a Felicidade em 20.
+Pintura de Sofia: Aumenta a Felicidade em 15, mas pode causar insegurança.
+Cartão de Amor: Pode ser usado em momentos de dúvida para aumentar a Felicidade em 10.
+Sistema de Decisões:
+As escolhas feitas durante a história afetam o desfecho do relacionamento, criando diferentes caminhos emocionais e finais possíveis.

@@ -1,0 +1,7 @@
+Resumo dos Conceitos-Chave:
+Estruturas de Controle: Condicionais (if/else) e laços (while).
+Manipulação de Dados: Variáveis para vida, ataque, itens.
+Funções: Para dividir o código em partes menores (combate, história, itens).
+Entrada e Saída: Para capturar as escolhas do jogador (input) e exibir resultados (print).
+Tratamento de Erros: Validação de escolhas do usuário.
+Sistema de Progresso: Decisões que afetam o jogo e sistema de combate com atributos (vida, dano).

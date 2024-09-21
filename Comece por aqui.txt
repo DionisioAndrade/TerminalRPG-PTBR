@@ -1,0 +1,13 @@
+Desafio: Montando um RPG no Terminal com Python
+
+O desafio é criar um RPG no terminal utilizando conceitos básicos de Python, visando aprimorar seus conhecimentos de forma leve e divertida.
+
+Na pasta temas, você encontrará diversas histórias. Escolha uma e inicie o desafio!
+
+Se tiver dúvidas sobre qual tema escolher ou se quiser um pouco mais de emoção, execute o arquivo sorteio.py para obter um tema aleatório.
+
+Sinta-se à vontade para modificar a história e os status da maneira que sua imaginação permitir.
+
+Caso tenha dúvidas técnicas, acesse a pasta dicas, onde você encontrará sugestões e explicações sobre como implementar as funcionalidades em Python.
+
+Concluiu o desafio? Quer me mostrar? Me procure no Instagram: @odionisioandrade.

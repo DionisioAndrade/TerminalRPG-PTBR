@@ -1,0 +1,52 @@
+História: A Casa das Sombras
+Introdução:
+Você é Sarah, uma jovem que se aventura em uma antiga mansão abandonada, conhecida por suas lendas sombrias e histórias de desaparecimentos. Ao entrar, você descobre que a mansão guarda segredos aterrorizantes, e suas decisões podem determinar se você sairá viva.
+
+Atributos Iniciais de Sarah:
+Saúde: 100
+Coragem: 5
+Itens: Nenhum no início
+Ato 1: A Entrada na Mansão
+Ao chegar à mansão, você deve decidir como entrar:
+
+Opção 1: Forçar a porta da frente.
+Opção 2: Procurar uma janela aberta.
+Condicional:
+
+Forçar a Porta: Se você escolher esta opção, consegue entrar rapidamente, mas faz barulho, atraindo a atenção de algo na casa (reduz Coragem em 2).
+Procurar a Janela: Se optar por esta opção, entra silenciosamente, ganhando +2 de Coragem, mas pode demorar mais.
+Ato 2: O Primeiro Encontro
+Dentro da mansão, você encontra uma sala escura e ouve um sussurro:
+
+Opção 1: Investigar a origem do sussurro.
+Opção 2: Ignorar e explorar outra sala.
+Condicional:
+
+Investigar: Se você investigar, descobre um diário que revela segredos da mansão, aumentando sua Coragem em 5, mas pode ser atacada por uma sombra.
+Ignorar: Se optar por ignorar, mantém sua saúde, mas perde a chance de obter informações valiosas.
+Ato 3: O Dilema da Escada
+Você encontra uma escada que leva ao segundo andar. Você percebe que há luz vindo de cima:
+
+Opção 1: Subir a escada.
+Opção 2: Ficar no primeiro andar e explorar mais.
+Condicional:
+
+Subir a Escada: Se você subir, encontra um espírito que precisa de ajuda, ganhando um aliado. Mas a saúde pode ser reduzida em 10 se o espírito for agressivo.
+Explorar o Primeiro Andar: Se optar por ficar, você pode encontrar suprimentos (como uma lanterna), mas não descobre o que está acontecendo no andar de cima.
+Ato 4: O Confronto Final
+Você finalmente descobre que a mansão é assombrada por uma entidade maligna que deseja capturá-la:
+
+Opção 1: Enfrentar a entidade com coragem.
+Opção 2: Tentar escapar pela porta de trás.
+Finais:
+
+Enfrentar a Entidade: Se você vencer, consegue libertar a mansão de sua maldição e ganha +20 de Coragem, mas pode perder parte da saúde.
+Tentar Escapar: Se você conseguir escapar, mantém sua vida, mas a experiência a marca, reduzindo sua Coragem em 10.
+Descrição dos Sistemas:
+Sistema de Saúde e Coragem:
+Sua Saúde e Coragem são impactadas por suas escolhas. O objetivo é manter a saúde enquanto enfrenta os horrores da mansão.
+Sistema de Itens:
+Lanterna: Aumenta a capacidade de ver no escuro, ajudando a evitar perigos.
+Diário: Revela segredos sobre a mansão, aumentando a Coragem ao entender a história.
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam a trajetória de Sarah, criando diferentes caminhos e desfechos, como a sobrevivência ou a captura pela entidade maligna.

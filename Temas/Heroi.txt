@@ -1,0 +1,52 @@
+História: O Despertar do Heroísmo
+Introdução:
+Você é Alex, um jovem com poderes extraordinários que descobre sua verdadeira identidade como super-herói. Em uma cidade chamada Nova Luz, você deve usar suas habilidades para combater o crime e proteger os inocentes.
+
+Atributos Iniciais de Alex:
+Fama: 0
+Poderes: Telecinese (nível 1)
+Saúde: 100
+Itens: Nenhum no início
+Ato 1: A Descoberta dos Poderes
+Após um evento traumático, você descobre seus poderes pela primeira vez:
+
+Opção 1: Usar seus poderes para ajudar uma pessoa em perigo.
+Opção 2: Testar seus poderes em um local isolado.
+Condicional:
+
+Ajudar a Pessoa: Se você escolher ajudar, ganha Fama (10) e a gratidão da cidade, mas pode se expor a inimigos.
+Testar os Poderes: Se optar por testar, melhora sua habilidade de telecinese em 5, mas não ganha reconhecimento.
+Ato 2: O Encontro com o Mentor
+Você conhece um herói experiente que se oferece para treiná-lo:
+
+Opção 1: Aceitar o treinamento.
+Opção 2: Recusar e seguir seu próprio caminho.
+Condicional:
+
+Aceitar: Se você aceitar, ganha Habilidades Adicionais (aumenta Poderes em 5) e Fama (15), mas deve completar missões para o mentor.
+Recusar: Se optar por não treinar, mantém sua liberdade, mas pode enfrentar desafios maiores sozinho.
+Ato 3: O Dilema Ético
+Você descobre um plano maligno de uma organização criminosa que planeja causar destruição:
+
+Opção 1: Enviar um aviso para as autoridades.
+Opção 2: Enfrentar a organização sozinho.
+Condicional:
+
+Aviso para as Autoridades: Se você escolher avisar, ganha Fama (20), mas a organização pode retaliar.
+Enfrentar Sozinho: Se você optar por lutar, pode ganhar fama significativa (30), mas arrisca sua saúde e segurança.
+Ato 4: O Confronto Final
+A organização criminosa descobre sua identidade e envia um vilão poderoso para eliminá-lo:
+
+Opção 1: Enfrentar o vilão em combate.
+Opção 2: Usar sua telecinese para desarmá-lo.
+Finais:
+
+Enfrentar o Vilão: Se você vencer, ganha Fama (50) e se torna um herói reconhecido, mas pode perder parte da sua saúde.
+Desarmar o Vilão: Se conseguir desarmar, evita um combate direto, aumenta sua Habilidade em Telecinese (5) e mantém sua saúde intacta, mas pode não ganhar tanto reconhecimento.
+Descrição dos Sistemas:
+Sistema de Fama e Habilidades:
+Sua Fama e Poderes são impactados por suas escolhas. O objetivo é maximizar sua reputação enquanto aprimora suas habilidades.
+Sistema de Saúde:
+Sua Saúde deve ser gerida com cuidado. Confrontos e decisões podem reduzir sua saúde, e você deve encontrar maneiras de recuperá-la.
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam a trajetória de Alex como super-herói, criando diferentes caminhos e resultados.

@@ -1,0 +1,52 @@
+História: O Comandante da Esperança
+Introdução:
+Você é Comandante Rafael, líder de uma unidade militar em um país devastado pela guerra civil. Sua missão é proteger os civis, recuperar a paz e sobreviver em meio ao caos. Suas decisões afetarão não apenas seu futuro, mas também a vida de seus soldados e da população.
+
+Atributos Iniciais de Comandante Rafael:
+Moral da Unidade: 100
+Habilidade Estratégica: 10
+Recursos: Limitados
+Itens: Nenhum no início
+Ato 1: O Primeiro Conflito
+Você recebe informações sobre um ataque iminente em uma vila próxima:
+
+Opção 1: Enviar uma patrulha para investigar a situação.
+Opção 2: Preparar a defesa da base e aguardar.
+Condicional:
+
+Patrulha: Se você enviar a patrulha, pode obter informações valiosas, aumentando sua Habilidade Estratégica em 5, mas corre o risco de perder soldados se o ataque acontecer.
+Preparar Defesa: Se você optar por se defender, sua Moral aumenta em 10, mas corre o risco de não ter informações sobre o inimigo.
+Ato 2: O Encontro com o Aliado
+Durante a patrulha, você encontra um grupo de civis que precisa de ajuda. Um dos civis, um ex-soldado, oferece apoio:
+
+Opção 1: Aceitar a ajuda do ex-soldado.
+Opção 2: Ignorar e seguir em frente.
+Condicional:
+
+Aceitar Ajuda: Se você aceitar, ganha um aliado com habilidades táticas, aumentando sua Habilidade Estratégica em 10.
+Ignorar: Se você ignorar, pode perder uma oportunidade de aumentar a Moral da Unidade, mas mantém seus recursos.
+Ato 3: A Decisão Difícil
+Um ataque à vila ocorre, e você deve decidir como responder:
+
+Opção 1: Organizar uma contraofensiva imediata.
+Opção 2: Evacuar os civis e proteger a unidade.
+Condicional:
+
+Contraofensiva: Se você organizar a contraofensiva, pode recuperar o controle da vila, aumentando sua Moral em 20, mas há risco de perder soldados.
+Evacuar: Se você optar por evacuar, pode salvar civis, aumentando a Moral em 15, mas sua Habilidade Estratégica pode não aumentar.
+Ato 4: O Clímax da Guerra
+Após as batalhas, você deve decidir como seguir:
+
+Opção 1: Propor uma trégua com o inimigo.
+Opção 2: Preparar um ataque final para derrotá-los de vez.
+Finais:
+
+Propor Trégua: Se você conseguir uma trégua, pode salvar vidas e começar a reconstruir a paz, ganhando respeito e a chance de se tornar um líder pacificador.
+Ataque Final: Se você decidir atacar, pode derrotar o inimigo, mas corre o risco de altos custos em vidas, comprometendo a moral de sua unidade.
+Descrição dos Sistemas:
+Sistema de Moral e Habilidades:
+A Moral da Unidade e a Habilidade Estratégica são impactadas por suas escolhas. O objetivo é manter a moral alta e maximizar sua eficácia em combate.
+Sistema de Recursos:
+Os recursos são limitados e devem ser geridos com cuidado. Você pode ganhar ou perder recursos durante as decisões, afetando sua capacidade de agir.
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam o resultado da guerra e o futuro da região, criando diferentes caminhos e finais.

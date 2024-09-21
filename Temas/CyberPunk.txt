@@ -1,0 +1,52 @@
+História: A Cidade das Sombras
+Introdução:
+Você é Kai, um hacker habilidoso que vive nas ruas de Nova Arcadia, uma megacidade repleta de tecnologia avançada e desigualdade social. As corporações controlam tudo, e a resistência luta contra um sistema opressor. Sua habilidade em invadir sistemas pode ser a chave para a liberdade.
+
+Atributos Iniciais de Kai:
+Reputação: 0
+Habilidade de Hacking: 10
+Saúde: 100
+Itens: Nenhum no início
+Ato 1: O Primeiro Hack
+Você recebe uma missão de um contato misterioso para hackear uma pequena empresa de tecnologia:
+
+Opção 1: Infiltrar-se fisicamente na empresa.
+Opção 2: Realizar o hack remotamente.
+Condicional:
+
+Infiltração: Se você escolher infiltrar-se, ganha acesso a informações valiosas, aumentando sua Habilidade de Hacking em 5, mas corre o risco de ser pego, diminuindo sua Saúde.
+Hack Remoto: Se optar por hackear remotamente, você pode evitar confrontos, mas a chance de obter dados críticos é menor, aumentando apenas 2 na Habilidade de Hacking.
+Ato 2: O Encontro com a Resistência
+Após o hack, você é abordado por um grupo da resistência que oferece apoio:
+
+Opção 1: Juntar-se à resistência.
+Opção 2: Recusar e seguir seu próprio caminho.
+Condicional:
+
+Juntar-se: Se você se juntar, ganha aliados e acesso a recursos, aumentando sua Reputação em 20, mas terá que cumprir missões para eles.
+Recusar: Se optar por seguir sozinho, mantém sua liberdade, mas pode enfrentar desafios maiores, sem apoio.
+Ato 3: O Dilema Moral
+Você descobre um plano sombrio de uma corporação que ameaça a vida de inocentes:
+
+Opção 1: Expor a verdade publicamente.
+Opção 2: Vender a informação para um rival.
+Condicional:
+
+Expor a Verdade: Se você expuser a verdade, sua Reputação aumenta em 30, mas a corporação pode retaliar.
+Vender Informação: Se optar por vender, você ganha dinheiro e recursos, mas sua reputação pode cair, tornando mais difícil confiar em aliados.
+Ato 4: O Confronto Final
+Após suas ações, você é confrontado por um agente da corporação, determinado a silenciá-lo:
+
+Opção 1: Enfrentar o agente em um combate.
+Opção 2: Tentar hackear o agente para desativar suas armas.
+Finais:
+
+Enfrentar o Agente: Se você vencer, ganha respeito e aumenta sua Reputação em 50, mas pode sofrer ferimentos que diminuem sua Saúde.
+Hackear o Agente: Se conseguir hackear, pode desarmar o agente, evitando um combate e aumentando sua Habilidade de Hacking em 10.
+Descrição dos Sistemas:
+Sistema de Reputação e Habilidades:
+Sua Reputação e Habilidade de Hacking são impactadas por suas escolhas. O objetivo é maximizar sua reputação enquanto aprimora suas habilidades.
+Sistema de Saúde:
+Sua Saúde deve ser gerida com cuidado. Confrontos e decisões podem reduzir sua saúde, e você deve encontrar maneiras de recuperá-la.
+Sistema de Decisões:
+As escolhas feitas durante a história influenciam a trajetória de Kai na megacidade, criando diferentes caminhos e resultados.
